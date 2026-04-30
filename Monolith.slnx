@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Monolith.Lib.Application/Monolith.Lib.Application.csproj" />
+    <Project Path="src/Monolith.Lib.Domain/Monolith.Lib.Domain.csproj" />
+    <Project Path="src/Monolith.Lib.Endpoints/Monolith.Lib.Endpoints.csproj" />
+    <Project Path="src/Monolith.Lib.Infrastructure/Monolith.Lib.Infrastructure.csproj" />
+    <Project Path="src/Monolith.Lib.Primitives/Monolith.Lib.Primitives.csproj" />
+  </Folder>
+</Solution>
