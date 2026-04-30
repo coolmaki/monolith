@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Monolith.Lib.Primitives\Monolith.Lib.Primitives.csproj" />
+  </ItemGroup>
+
 </Project>
