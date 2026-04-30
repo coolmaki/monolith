@@ -1,9 +1,14 @@
 <Solution>
-  <Folder Name="/src/">
+  <Folder Name="/src/" />
+  <Folder Name="/src/Monolith.Lib/">
     <Project Path="src/Monolith.Lib.Application/Monolith.Lib.Application.csproj" />
     <Project Path="src/Monolith.Lib.Domain/Monolith.Lib.Domain.csproj" />
     <Project Path="src/Monolith.Lib.Endpoints/Monolith.Lib.Endpoints.csproj" />
     <Project Path="src/Monolith.Lib.Infrastructure/Monolith.Lib.Infrastructure.csproj" />
     <Project Path="src/Monolith.Lib.Primitives/Monolith.Lib.Primitives.csproj" />
+  </Folder>
+  <Folder Name="/src/Monolith.Modules/" />
+  <Folder Name="/src/Monolith.Modules/Monolith.Modules.Identity/">
+    <Project Path="src\Monolith.Modules.Identity.Domain\Monolith.Modules.Identity.Domain.csproj" Type="Classic C#" />
   </Folder>
 </Solution>
