@@ -8,7 +8,4 @@
     <Project Path="src/Monolith.Lib.Primitives/Monolith.Lib.Primitives.csproj" />
   </Folder>
   <Folder Name="/src/Monolith.Modules/" />
-  <Folder Name="/src/Monolith.Modules/Monolith.Modules.Identity/">
-    <Project Path="src\Monolith.Modules.Identity.Domain\Monolith.Modules.Identity.Domain.csproj" Type="Classic C#" />
-  </Folder>
 </Solution>
